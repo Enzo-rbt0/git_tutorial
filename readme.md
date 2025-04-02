@@ -1,1 +1,0 @@
-Projeto para testar e aprender os comandos Git
